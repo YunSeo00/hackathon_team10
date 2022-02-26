@@ -7,4 +7,3 @@
   - [test_data_onehot_origin.csv](https://drive.google.com/file/d/1C0C3E701o4JQXP5o9ISk1B-4NO2brpMI/view?usp=sharing)
 - validation_code.ipynb : 검증데이터에서 데이터 증식, tf-idf vector 생성, 최종 모델 적합한 코드
 - Final_code_team10.ipynb : 최종 데이터 예측 코드
--
